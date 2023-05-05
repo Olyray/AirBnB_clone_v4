@@ -14,6 +14,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [File Descriptions](#file-descriptions)
 * [Usage](#usage)
 * [Examples of use](#examples-of-use)
+* [Resources Used](#resources-used)
 * [Bugs](#bugs)
 * [Authors](#authors)
 * [License](#license)
@@ -149,6 +150,10 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
+
+## Resources Used
+ChatGPT links
+https://chat.openai.com/c/3735c11b-efdb-434b-98de-bff532586318
 
 ## Bugs
 No known bugs at this time. 
